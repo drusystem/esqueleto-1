@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+}
+
+.contenido{
+    padding: 15px;
+}
+
+.imageHeader{
+    height: 41px;
+    margin-top: 15px;
+}
